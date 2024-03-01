@@ -4,7 +4,7 @@
     <div class="col-md-12">
 
         <div class="footer">
-        <p>© 2024 Perpustakaan Jonathan | <b>All Right Reserved</b></p>
+        <p><sub></sub>© 2024 Perpustakaan Jonathan | <b>All Right Reserved<sub></sub></b></p>
         </div>
     </div>
 </div>
